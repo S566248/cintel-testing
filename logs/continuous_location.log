@@ -1,7 +1,33 @@
-2023-07-28 23:08:21,702.continuous_location.INFO =============================================================
-2023-07-28 23:08:21,703.continuous_location.INFO Today is 2023-07-28 at 11:08 PM
-2023-07-28 23:08:21,704.continuous_location.INFO This file is running on: nt Windows 10
-2023-07-28 23:08:21,705.continuous_location.INFO The Python version is: 3.11.3
-2023-07-28 23:08:21,706.continuous_location.INFO The active environment path is:   c:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final\.venv
-2023-07-28 23:08:21,708.continuous_location.INFO The current working directory is: C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final
-2023-07-28 23:08:21,710.continuous_location.INFO =============================================================
+2023-08-09 23:13:58,996.continuous_location.INFO =============================================================
+2023-08-09 23:13:58,996.continuous_location.INFO Today is 2023-08-09 at 11:13 PM
+2023-08-09 23:13:58,996.continuous_location.INFO This file is running on: nt Windows 10
+2023-08-09 23:13:58,996.continuous_location.INFO The Python version is: 3.11.3
+2023-08-09 23:13:58,996.continuous_location.INFO The active environment path is:   C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\.venv
+2023-08-09 23:13:58,996.continuous_location.INFO The current working directory is: C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final
+2023-08-09 23:13:58,996.continuous_location.INFO =============================================================
+2023-08-09 23:14:14,484.continuous_location.INFO Calling update_csv_location
+2023-08-09 23:14:14,485.continuous_location.INFO update_interval: 60
+2023-08-09 23:14:14,485.continuous_location.INFO total_runtime: 900
+2023-08-09 23:14:14,488.continuous_location.INFO num_updates: 10
+2023-08-09 23:14:14,490.continuous_location.INFO Initialized csv file at C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final\data\mtcars_location.csv
+2023-08-09 23:14:14,490.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-09 23:14:14,492.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-08-09 23:14:14,493.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-09 23:14:14,495.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-08-09 23:14:14,496.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-09 23:14:14,497.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-08-09 23:14:14,517.continuous_location.INFO Saving temperatures to C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final\data\mtcars_location.csv
+2023-08-09 23:15:14,533.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-09 23:15:14,533.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-08-09 23:15:14,533.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-09 23:15:14,546.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-08-09 23:15:14,548.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-09 23:15:14,555.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-08-09 23:15:14,569.continuous_location.INFO Saving temperatures to C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final\data\mtcars_location.csv
+2023-08-09 23:16:14,570.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-09 23:16:14,570.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-08-09 23:16:14,570.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-09 23:16:14,570.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-08-09 23:16:14,570.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-08-09 23:16:14,570.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-08-09 23:16:14,579.continuous_location.INFO Saving temperatures to C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final\data\mtcars_location.csv

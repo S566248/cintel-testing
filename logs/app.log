@@ -1,7 +1,10 @@
-2023-07-28 23:08:32,456.app.INFO =============================================================
-2023-07-28 23:08:32,457.app.INFO Today is 2023-07-28 at 11:08 PM
-2023-07-28 23:08:32,458.app.INFO This file is running on: nt Windows 10
-2023-07-28 23:08:32,459.app.INFO The Python version is: 3.11.3
-2023-07-28 23:08:32,460.app.INFO The active environment path is:   c:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final\.venv
-2023-07-28 23:08:32,462.app.INFO The current working directory is: C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final
-2023-07-28 23:08:32,464.app.INFO =============================================================
+2023-08-09 23:14:06,936.app.INFO =============================================================
+2023-08-09 23:14:06,936.app.INFO Today is 2023-08-09 at 11:14 PM
+2023-08-09 23:14:06,938.app.INFO This file is running on: nt Windows 10
+2023-08-09 23:14:06,940.app.INFO The Python version is: 3.11.3
+2023-08-09 23:14:06,940.app.INFO The active environment path is:   C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\.venv
+2023-08-09 23:14:06,941.app.INFO The current working directory is: C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-07-final
+2023-08-09 23:14:06,942.app.INFO =============================================================
+2023-08-09 23:14:14,449.app.INFO Starting server ...
+2023-08-09 23:14:14,449.app.INFO Starting continuous updates ...
+2023-08-09 23:14:14,482.app.INFO Calling continuous updates ...
